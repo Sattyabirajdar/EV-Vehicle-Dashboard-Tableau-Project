@@ -86,7 +86,7 @@ Box Plot of Reading Score by Race/Ethnicity
 
 Download or clone the repository
 
-git clone https://github.com/yourusername/tableau-project.git
+git clone https://github.com/Sattyabirajdar/EV-Vehicle-Dashboard-Tableau-Project
 
 
 Open Tableau Desktop
