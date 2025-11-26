@@ -4,126 +4,121 @@
 
  <img width="1603" height="803" alt="Screenshot 2025-11-26 143836" src="https://github.com/user-attachments/assets/817c4fcb-0494-4167-94c2-93f7307d630a" />
 
+# 📊 Tableau Data Visualization Project
 
-A complete Tableau project that includes dashboards, worksheets, KPIs, and insights for data-driven decision-making. This repository contains the Tableau workbook along with a detailed explanation of the visualizations and business insights.
+A complete Tableau project featuring **dashboards, worksheets, KPIs,
+trend analyses, and business insights** for data-driven decision-making.
+This repository includes the Tableau workbook along with detailed
+explanations of the visualizations and insights.
 
-📁 Project Structure
-├── dataset/                 # Raw data used for the Tableau visuals
-├── exports/                 # Screenshots of dashboards and visuals
-├── tableau-workbook.twbx    # Main Tableau workbook file
-└── README.md                # Project documentation
+## 📁 Project Structure
 
-🚀 Project Overview
+    ├── dataset/                  # Raw data used for Tableau visuals
+    ├── exports/                  # Screenshots of dashboards & visualizations
+    ├── tableau-workbook.twbx     # Main Tableau workbook file
+    └── README.md                 # Project documentation
 
-This Tableau project analyzes the dataset to uncover patterns, trends, and actionable insights through interactive dashboards.
+## 🚀 Project Overview
 
-The project includes:
+This Tableau project analyzes the dataset to uncover **patterns, trends,
+and actionable insights** through interactive dashboards.
 
-📌 KPI Cards
+### The project includes:
 
-📊 Trend Charts
+-   📌 KPI Cards
+-   📊 Trend Charts
+-   🗺️ Maps
+-   🧩 Heatmaps
+-   📉 Bar & Pie Charts
+-   📈 Comparative Analysis
+-   🧠 Insights for Decision-Making
 
-🗺️ Maps
+## 🎯 Objectives
 
-🧩 Heat Maps
+-   Understand data patterns and relationships
+-   Build interactive and professional Tableau dashboards
+-   Present meaningful business insights
+-   Help stakeholders make informed decisions
 
-📉 Bar & Pie Charts
+## 🛠️ Tools & Technologies
 
-📈 Comparative Analysis
+  Tool / Software                Purpose
+  ------------------------------ ------------------------------------
+  **Tableau Desktop**            Dashboard Creation & Visualization
+  **Excel / CSV**                Data Source
+  **Power BI (optional)**        BI comparison & learning
+  **Figma / Canva (optional)**   Screenshot annotations / UI assets
 
-🧠 Insights for decision-making
+## 📊 Dashboards Included
 
-🧠 Objectives
+### 1️⃣ KPI Dashboard
 
-Understand data patterns and relationships
+-   Total Sales
+-   Total Profit
+-   Average Discount
+-   Key performance indicators
 
-Build interactive Tableau dashboards
+### 2️⃣ Sales by Category
 
-Provide clear business insights
+-   Bar chart for category-wise comparison
+-   Pie chart visualization
 
-Help stakeholders make informed decisions
+### 3️⃣ Regional Performance
 
-🛠️ Tools & Technologies
-Tool	Purpose
-Tableau Desktop	Dashboard & Visualization
-Excel / CSV	Data Source
-Power BI (optional)	Comparison for BI learning
-Figma / Canva (optional)	UI screenshot annotation
-📊 Dashboards Included
-1️⃣ KPI Dashboard
+-   Map showing region-wise performance
 
-Total Sales
+### 4️⃣ Monthly Trends
 
-Total Profit
+-   Line chart for monthly insights & trend patterns
 
-Average Discount
+### 5️⃣ Heatmaps & Box Plots
 
-Performance Indicators
+-   Parental Education vs Writing Score (Heatmap)\
+-   Reading Score distribution by Race/Ethnicity (Box Plot)
 
-2️⃣ Sales by Category
+## 📂 How to Use This Project
 
-Bar Chart for Categories
+1.  **Download or clone the repository**
 
-Pie Chart Visualization
+    ``` bash
+    git clone https://github.com/Sattyabirajdar/EV-Vehicle-Dashboard-Tableau-Project
+    ```
 
-3️⃣ Regional Performance
+2.  Open **Tableau Desktop**
 
-Map showing region-wise distribution
+3.  Load the **.twbx** file
 
-4️⃣ Monthly Trends
+4.  Replace the data source if needed
 
-Line Chart showing monthly patterns
+5.  Explore the dashboards & insights
 
-5️⃣ Heat Maps & Box Plots
+## 🔍 Sample Insights (Replace / Add Yours)
 
-Parental Education vs Writing Score
+- Students with higher parental education show better writing performance
+- Reading score varies significantly across race/ethnicity
+- Profit trend increases in Q3 & peaks in Q4
+- Central region contributes the highest revenue
 
-Box Plot of Reading Score by Race/Ethnicity
+(Add insights specific to your dataset and dashboards)
+
+## 📌 Features
+
+-   Interactive filters
+-   Drill-down capability
+-   Professionally designed dashboards
+-   Smooth storytelling layout
+-   Clean color palette & consistent formatting
+
+## 🙌 Contributing
+
+Contributions are welcome!
+If you'd like to enhance the dashboards or add new insights, feel free
+to submit a pull request.
+
+## 📞 Contact
+
+**Author:** Satyam Birajdar
+**Email:** satyambirajdar273@gmail.com
 
 
 
-📂 How to Use This Project
-
-Download or clone the repository
-
-git clone https://github.com/Sattyabirajdar/EV-Vehicle-Dashboard-Tableau-Project
-
-
-Open Tableau Desktop
-
-Load the .twbx file
-
-Replace the data source if needed
-
-Explore the dashboards
-
-🔍 Insights (Sample to Include)
-
-✔ Students with higher parental education show better writing scores
-✔ Reading score variability differs across race/ethnicity
-✔ Profit trend increases in Q3 & Q4
-✔ Central region drives highest revenue
-
-(Add insights based on your specific dashboard)
-
-📌 Features
-
-Interactive filters
-
-Drill-down functionality
-
-Professionally designed layout
-
-Smooth storytelling dashboard
-
-Clean color palette & consistent formatting
-
-🙌 Contributing
-
-Pull requests are welcome!
-If you’d like to improve visualizations or add new data stories, feel free to contribute.
-
-📞 Contact
-
-Author:  Satyam Birajdar
-Email: satyambirajdar273@gmail.com
